@@ -43,19 +43,19 @@
 
 .home-page-circle-1 {
     position: absolute;
-    width: 30vw;
-    height: 30vh;
+    width: 20rem;
+    height: 20rem;
     border-radius: 50%;
     background-color: rgba(188, 58, 128, 0.1);
-    bottom: 5vw;
-    left: 5vw;
+    bottom: 8vw;
+    left: 4rem;
     z-index: -1;
 }
 
 .home-page-circle-2 {
     position: absolute;
-    width: 20vw;
-    height: 20vh;
+    width: 12rem;
+    height: 12rem;
     border-radius: 50%;
     background-color: rgba(52, 87, 128, 0.1);
     top: 15vh;
@@ -66,8 +66,8 @@
 .home-page-circle-3 {
     position: absolute;
     overflow: hidden;
-    width: 40vw;
-    height: 40vh;
+    width: 40rem;
+    height: 40rem;
     bottom:0;
     right: 0;
     z-index: -1;
